@@ -10,7 +10,10 @@
   <em>
     I am a 3rd Year undergraduate from <a href="https://daffodilvarsity.edu.bd//"> <b>Daffodil International University</b>, Dhaka,Bangladesh</a>.  
     A budding <b>Web Developer</b> <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Developer.gif" width="30px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and her Skill <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Medal.gif" width="20px">
+    with the idea of <b>improving</b> himself and her Skill <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Medal.gif" width="20px"> i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. <br>
+
+💼 any freelance work? do reach, email :) <br>
+💬 ask me about anything, i am happy to help
   </em>  
 </p>
 
